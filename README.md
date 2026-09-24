@@ -1,2 +1,0 @@
-# Java-IoT-Gateway
-java
